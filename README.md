@@ -1,7 +1,7 @@
 # Stanford CS224N: NLP-With-Deep-Learning
 
 ## Overview:
-This project contains my solutions for the Stanford Univresity Winter-23 course.
+This project contains my solutions for the Stanford University Winter-23 course.
 
 - Course Website: https://web.stanford.edu/class/cs224n/
 - Course Schedule & Assignments: https://web.stanford.edu/class/cs224n/index.html#schedule
